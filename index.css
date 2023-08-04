@@ -1,0 +1,33 @@
+body{
+    background-color:aqua;
+    /* justify-items:center;
+    justify-content: center; */
+
+}
+
+.box{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    justify-items:center;
+    align-items: center;
+    gap:20px;
+    /* flex-direction:row;  default */
+    /* justify-items:center;
+    justify-content: center;
+    align-items:center; */
+}
+
+.inp{
+    color:black;
+    padding:5px;
+}
+
+.start{
+    border-color: blue;
+    background-color: aquamarine;
+    padding:5px;
+
+}
+
